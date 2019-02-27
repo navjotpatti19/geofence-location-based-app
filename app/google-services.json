@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257761967396",
+    "firebase_url": "https://reminderapp-5be82.firebaseio.com",
+    "project_id": "reminderapp-5be82",
+    "storage_bucket": "reminderapp-5be82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257761967396:android:bdaa97cfda84418d",
+        "android_client_info": {
+          "package_name": "com.example.sapple.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257761967396-lrhi9bj4tuh5u1facjsigbck0rtnr1n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sapple.googlemaps",
+            "certificate_hash": "6e4130bccda07041fc4db146b86d1b64c521a386"
+          }
+        },
+        {
+          "client_id": "257761967396-h2k016gol8unn1bojv5dqae9ovp92crv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDgV_sBML2owYteCkkOqfeFTs8nKtJVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257761967396-h2k016gol8unn1bojv5dqae9ovp92crv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

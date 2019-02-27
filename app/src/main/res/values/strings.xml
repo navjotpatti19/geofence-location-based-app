@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="google_maps_API_key">AIzaSyBZ9mOCKORLVlK-aXvqTXZrjMzTC7T9GhY</string>
+    <string name="map_text">Open Map</string>
+    <string name="search_placeholder">Enter Address or City</string>
+    <string name="reminder_desc">Reminder description</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="lat">Latitude</string>
+    <string name="lng">Longitude</string>
+    <string name="loc">Location</string>
+    <string name="dist">Notification zone distance (in metres)</string>
+    <string name="add_item">Add Item</string>
+    <string name="item">Item</string>
+    <string name="reminder_name">Reminder Name</string>
+    <string name="list_items">Show Reminder List</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="empty_list">List Empty. Tap + to add Reminder</string>
+    <string name="txt_no_items">No items. Tap on Add button to add reminder items</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="show_reminder">Show Reminder</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="reminder_popup">Reminder Added</string>
+    <string name="reminder_update">Reminder Updated</string>
+    <string name="auto_enable">You need to enable AutoStart on your device for the proper working of application.</string>
+    <string name="delete_alert">Do you want to delete it?</string>
+    <string name="in">In</string>
+    <string name="out">Out</string>
+    <string name="once">Once per day</string>
+    <string name="onlyOnce">Only Once</string>
+    <string name="everytime">Every Time</string>
+    <string name="defaultDistance">50</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="geofence_unknown_error">
+    Unknown error: the Geofence service is not available now.</string>
+    <string name="geofence_not_available">
+    Geofence service is not available now. Go to Settings>Location>Mode and choose High accuracy.</string>
+    <string name="geofence_too_many_geofences">
+    Your app has registered too many geofences.</string>
+    <string name="geofence_too_many_pending_intents">
+    You have provided too many PendingIntents to the addGeofences() call.</string>
+    <string name="reminder_added_success">Reminder added!</string>
+    <string name="reminder_removed_success">Reminder removed!</string>
+    <string name="permission">This permission is required for this app</string>
+    <string name="setting_permission">Permission required.Please go to settings and grant permissions</string>
+    <string name="notification_msg">Please make sure you have an active internet
+        connection and GPS enabled. Otherwise you might not get a reminder.</string>
+</resources>
